@@ -1,0 +1,5 @@
+{
+    "janny": { "position":"Backend Devoloper" ,"salary":41000},
+    "game": { "position":"Frontend Devoloper", "salary":30000 },
+    "arm": { "position":"Project manager", "salary":56000 }
+}
